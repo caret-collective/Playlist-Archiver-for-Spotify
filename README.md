@@ -6,12 +6,12 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/twocaretcat/Playlist-Archiver-for-Spotify.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/actions/workflow/status/twocaretcat/Playlist-Archiver-for-Spotify/archive-discover-weekly.yml?logo=spotify&label=Archive%20Discover%20Weekly" alt="GitHub Workflow Status" title="GitHub Workflow Status">
-    <img src="https://img.shields.io/github/actions/workflow/status/twocaretcat/Playlist-Archiver-for-Spotify/archive-release-radar.yml?logo=spotify&label=Archive%20Release%20Radar" alt="GitHub Workflow Status" title="GitHub Workflow Status">
-    <img src="https://img.shields.io/github/repo-size/twocaretcat/Playlist-Archiver-for-Spotify.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/caret-collective/Playlist-Archiver-for-Spotify.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/actions/workflow/status/caret-collective/Playlist-Archiver-for-Spotify/archive-discover-weekly.yml?logo=spotify&label=Archive%20Discover%20Weekly" alt="GitHub Workflow Status" title="GitHub Workflow Status">
+    <img src="https://img.shields.io/github/actions/workflow/status/caret-collective/Playlist-Archiver-for-Spotify/archive-release-radar.yml?logo=spotify&label=Archive%20Release%20Radar" alt="GitHub Workflow Status" title="GitHub Workflow Status">
+    <img src="https://img.shields.io/github/repo-size/caret-collective/Playlist-Archiver-for-Spotify.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/twocaretcat/Playlist-Archiver-for-Spotify.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/caret-collective/Playlist-Archiver-for-Spotify.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
 
