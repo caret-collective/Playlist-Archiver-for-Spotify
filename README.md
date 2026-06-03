@@ -188,7 +188,7 @@ This project includes various resources which carry their own copyright notices 
 
 
 ## 🖇️ Related
- - **[Collage Generator for Last.fm](https://github.com/twocaretcat/Collage-Generator-for-Last.fm)**: A command-line app to generate a collage of your favorite albums based on Last.fm scrobbles
+ - **[Collage Generator for Last.fm](https://github.com/caret-collective/Collage-Generator-for-Last.fm)**: A command-line app to generate a collage of your favorite albums based on Last.fm scrobbles
 
 
 ## 💕 Funding
