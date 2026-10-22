@@ -208,7 +208,8 @@ def add_tracks_to_playlist(
 
 			num_of_tracks_in_chunk = len(chunked_track_ids)
 
-			sp.playlist_add_items(output_playlist_id, chunked_track_ids)
+			if chunked_track_ids:
+				sp.playlist_add_items(output_playlist_id, chunked_track_ids)
 
 			logger.debug(f'Added {num_of_tracks_in_chunk} tracks to playlist')
 
